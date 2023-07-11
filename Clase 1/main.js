@@ -38,7 +38,7 @@ linea
 // let saludo = "Hola";
 // let nombre = " camila";
 
-// let saludoCompleto = saludo + nombre;
+// let saludoCompleto = saludo + " " + nombre;
 // console.log(saludoCompleto);
 
 //prompt
