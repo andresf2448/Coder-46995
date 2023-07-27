@@ -115,6 +115,6 @@ while(producto != "ESC"){
 //   { id: 4, nombre: "media", precio: 1000 },
 // ];
 
-// for(const daniela of productos){
-//   console.log(daniela.nombre);
+// for(const producto of productos){
+//   console.log(producto.nombre);
 // }
