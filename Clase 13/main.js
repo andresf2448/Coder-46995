@@ -118,6 +118,7 @@ const nombreFuncion = (parm1, parm2) => {
 // console.log(producto);
 // producto.info();
 
+////////////////////////////////////////////////////////////////////////
 // const productos = [
 //   { id: 1, nombre: "camisa", precio: 1000 },
 //   { id: 2, nombre: "media", precio: 1000 },
